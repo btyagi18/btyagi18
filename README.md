@@ -144,12 +144,12 @@ Authentication System built using PHP, MySQL, MongoDB & Redis and deployed on AW
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=btyagi18&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btyagi18&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=btyagi18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btyagi18&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=btyagi18&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=btyagi18&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
