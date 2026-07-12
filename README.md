@@ -168,19 +168,7 @@ Authentication System built using PHP, MySQL, MongoDB & Redis and deployed on AW
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=btyagi18&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=btyagi18&label=Profile+Views&color=00C4FF&style=flat"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=btyagi18&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
 ---
